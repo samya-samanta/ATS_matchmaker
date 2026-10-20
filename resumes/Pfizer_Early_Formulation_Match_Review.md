@@ -1,6 +1,6 @@
 # Pfizer early formulation role: résumé match review
 
-This review uses the supplied `job-description-pfizer.docx`, the current general résumé, and the previously uploaded résumé/CV versions. No new detailed curriculum vitae was attached with the Pfizer request. This is a provisional manual assessment, not a score produced by Pfizer or an ATS vendor.
+This review uses the supplied `job-description-pfizer.docx`, the current general résumé, the detailed `Samya_CV_2026_C.docx`, and the clarification that the dissertation has been defended. The candidate confirmed that the specialized formulation, dissolution, solid-state screening and pharmacokinetic experience identified as missing is not part of their background. This is a provisional manual assessment, not a score produced by Pfizer or an ATS vendor.
 
 ## Result
 
@@ -10,10 +10,10 @@ The tailoring improves the visibility of existing transferable experience. It do
 
 | Requirement | Weight | Before | After | Evidence or limitation |
 |---|---:|---:|---:|---|
-| Relevant completed degree / experience route | 10 | 5 | 5 | Chemistry education and 2021–2026 Ph.D. research are listed, but the research role still says Ph.D. Candidate. Award status is unconfirmed; the alternative MS/BS experience routes are not established. |
+| Relevant completed degree / experience route | 10 | 5 | 5 | Chemistry education and 2021–2026 Ph.D. research are listed. Defense is now confirmed and reflected in the tailored résumé; formal degree conferral remains unconfirmed. The alternative MS/BS experience routes are not established. |
 | Independent and collaborative laboratory research | 8 | 8 | 8 | Multiple research appointments, developed protocols, collaborative publications, and mentoring. |
 | Hypothesis-driven experimental design | 8 | 6 | 6 | Designed synthesis and mechanistic investigations support experimental design; explicit hypothesis-testing examples would strengthen evidence. |
-| Applying fundamental principles to complex problems | 6 | 4 | 4 | Mechanistic investigations and reaction optimization; no direct formulation thermodynamics evidence. |
+| Applying fundamental principles to complex problems | 6 | 4 | 4 | The detailed CV provides oxidative/reductive photochemical pathway investigations and reaction optimization. This strengthens the evidence for the existing partial credit; direct formulation thermodynamics evidence remains absent. |
 | Physicochemical / material characterization and interpretation | 12 | 5 | 5 | HPLC, NMR, UV-Vis, IR, cyclic voltammetry, compound characterization, and metal–organic framework research are transferable; drug developability assessments are not documented. |
 | Traditional/enabled formulations and preclinical drug delivery | 16 | 0 | 0 | Not documented. |
 | Polymorph/salt screens and solid-state drug stability | 12 | 0 | 0 | Not documented. Synthesis of amine salts does not establish pharmaceutical salt-screening experience. |
@@ -28,7 +28,7 @@ If Ph.D. conferral is confirmed, the degree criterion could increase to 10/10, g
 
 ## Eligibility checks outside the score
 
-- The posting explicitly requires **permanent U.S. work authorization**. Status is unknown; no eligibility claim has been added to the résumé.
+- The posting explicitly requires **permanent U.S. work authorization**. This is a separate eligibility condition, not a keyword criterion. Temporary work authorization must not be represented as permanent authorization; no work-authorization claim has been added to the résumé.
 - The role is on-premise in La Jolla, California. Relocation willingness has not been confirmed.
 - These conditions cannot be resolved by keyword optimization.
 
@@ -38,10 +38,12 @@ If Ph.D. conferral is confirmed, the degree criterion could increase to 10/10, g
 - Identified early formulation and drug delivery as an intended application of existing experience, not as prior experience or subject-matter expertise.
 - Reorganized existing technical skills to emphasize experimental design and analytical characterization.
 - Refined selected research bullets to foreground method development, reaction-condition evaluation, reproducible protocols and reactivity investigations.
-- Preserved the general résumé as a separate document; retained education, publication details, presentations, awards and leadership content in the tailored copy.
+- Preserved the general résumé as a separate document. In the Pfizer draft, updated the thesis title from the detailed CV, noted that the dissertation is defended, and changed the research-role label to Doctoral Researcher without claiming formal conferral.
+- Added the CV’s explicit photochemical pathway and contrast-agent research details. Replaced one selected publication with the documented bioactive aziridine publication; coauthorship is not treated as evidence of personal formulation or biological-assay work.
+- Retained the existing presentations, awards and leadership sections.
 
 No formulation, polymorph screening, pharmaceutical salt screening, in vitro/in vivo testing, pharmacokinetics, GastroPlus, clinical formulation, or CMC experience was added.
 
 ## Evidence needed to reassess
 
-A detailed CV or concrete examples of formulation preparation, solubility/dissolution measurements, solid-state analysis (for example XRPD, DSC or TGA), polymorph/salt screening, stability studies, pharmacokinetic simulations, mathematical modeling or structured experimental data workflows could change this assessment. State the actual methods, personal contribution and outcome. Unsupported keywords alone do not earn credit.
+The detailed CV has now been reviewed and does not establish the missing specialist experience. Future substantiated experience in formulation preparation, solubility/dissolution measurements, solid-state analysis (for example XRPD, DSC or TGA), polymorph/salt screening, stability studies, pharmacokinetic simulations, mathematical modeling or structured experimental data workflows could change this assessment. State the actual methods, personal contribution and outcome. Unsupported keywords alone do not earn credit.
