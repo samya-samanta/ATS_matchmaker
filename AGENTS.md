@@ -8,3 +8,10 @@ The user requested the [Karpathy guidelines](https://github.com/multica-ai/andre
 - Define observable success criteria, verify them, and report limitations honestly.
 
 For résumé work, preserve wording and factual claims when only formatting is requested. Verify the rendered PDF page count and check for lost text or poor page breaks. Never claim an employer ATS score or a verified job match without supporting evidence.
+
+## Resume preferences
+
+- Proceed with authorized work without repeated approval requests; ask only for information that materially affects accuracy or scope.
+- Include a job-specific estimated match score and its evidence/rubric with each tailored resume. Clearly label it as an estimate, never the employer's actual ATS result. If there is no JD, say the score is not assessable rather than inventing one.
+- Use italic chemical N-locants and journal titles. In selected publication citations, bold the publication year and italicize the volume, preserving text and links.
+- Retain a two-page PDF, justified uniform 10-point body text, Education-first order, restrained emphasis, and the user's corrected wording unless tailoring is requested.
