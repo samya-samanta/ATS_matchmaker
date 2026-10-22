@@ -14,11 +14,11 @@ For résumé work, preserve wording and factual claims when only formatting is r
 - Proceed with authorized work without repeated approval requests; ask only for information that materially affects accuracy or scope.
 - Include a job-specific estimated match score and its evidence/rubric with each tailored resume. Clearly label it as an estimate, never the employer's actual ATS result. If there is no JD, say the score is not assessable rather than inventing one.
 - Use italic chemical N-locants and journal titles. In selected publication citations, bold the publication year and italicize the volume, preserving text and links.
-- Retain a two-page PDF, justified uniform 10-point body text, Education-first order, restrained emphasis, and the user's corrected wording unless tailoring is requested.
+- Retain a two-page PDF, justified uniform body text at the approved master size, Education-first order, restrained emphasis, and the user's corrected wording unless tailoring is requested.
 - Bold year numbers throughout Research Experience and `Samanta, S.` in every selected publication, including middle-author entries.
 - Keep the JACS, Angewandte, Nature Communications and Organic Syntheses papers in the selected list; the approved AstraZeneca selection uses ACS Catalysis instead of Tetrahedron Letters.
 - Align the header's `resume` label to the text area's right margin with a single right-aligned tab, clearing inherited header tab stops.
-- The refined AstraZeneca template uses Palatino body/name text with Arial section headings; maintain uniform 10-point body size and scientific italics.
+- The current master uses Palatino body/name and section headings, 9.5-point body text with 1.05× line spacing and 12-point headings. Preserve scientific italics.
 
 ## Daily job-search workflow
 
@@ -26,4 +26,4 @@ For résumé work, preserve wording and factual claims when only formatting is r
 - Use College Station local time (`America/Chicago`), with separate 10 AM and 5 PM email reports. The current scope excludes job applications and recruiter outreach.
 - Employer websites supplied by the user are priority sources. LinkedIn Premium is not proof of API/account access; use permitted sources and verify employer postings.
 
-- Latest user-approved formatting source: `resumes/spacing-trials/User_Approved_Formatting_Master.docx` (uploaded manual revision). Preserve its formatting unless a technical issue requires correction. The line-spacing trials are alternatives, not newly approved masters; see their README for results.
+- Latest user-approved formatting source: `resumes/master/Samya_Samanta_Master.docx`, copied unchanged from the latest uploaded `Samya_Samanta_Spacing_105_9.5pt.docx`. This supersedes the earlier formatting master and trials. Preserve this formatting unless the user approves changes or a technical correction is needed. The review suggestions are not approved changes.
