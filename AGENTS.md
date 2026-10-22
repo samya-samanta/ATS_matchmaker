@@ -25,3 +25,5 @@ For résumé work, preserve wording and factual claims when only formatting is r
 - Follow `automation/workflow-config.json` and `automation/SETUP.md` for the agreed daily search/tailoring requirements. This configuration is planned, not a running deployment.
 - Use College Station local time (`America/Chicago`), with separate 10 AM and 5 PM email reports. The current scope excludes job applications and recruiter outreach.
 - Employer websites supplied by the user are priority sources. LinkedIn Premium is not proof of API/account access; use permitted sources and verify employer postings.
+
+- Latest user-approved formatting source: `resumes/spacing-trials/User_Approved_Formatting_Master.docx` (uploaded manual revision). Preserve its formatting unless a technical issue requires correction. The line-spacing trials are alternatives, not newly approved masters; see their README for results.
