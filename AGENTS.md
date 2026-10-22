@@ -27,3 +27,4 @@ For résumé work, preserve wording and factual claims when only formatting is r
 - Employer websites supplied by the user are priority sources. LinkedIn Premium is not proof of API/account access; use permitted sources and verify employer postings.
 
 - Latest user-approved formatting source: `resumes/master/Samya_Samanta_Master.docx`, copied unchanged from the latest uploaded `Samya_Samanta_Spacing_105_9.5pt.docx`. This supersedes the earlier formatting master and trials. Preserve this formatting unless the user approves changes or a technical correction is needed. The review suggestions are not approved changes.
+- The user subsequently authorized the review refinements, now in `resumes/master/Samya_Samanta_Master_Refined.docx`. Use this refined version for subsequent work unless a newer upload supersedes it. Technical Skills is left-aligned; other body text retains the master alignment. The uploaded original remains archived unchanged.
