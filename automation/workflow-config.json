@@ -1,0 +1,47 @@
+{
+  "status": "planned_not_active",
+  "timezone": "America/Chicago",
+  "days": "every_day",
+  "reports": {
+    "search": "10:00",
+    "tailoring": "17:00",
+    "email_recipient": "samyasamanta.7911@gmail.com"
+  },
+  "search": {
+    "target_count": 10,
+    "maximum_posting_age_days": 10,
+    "regions": ["United States", "Canada", "Europe", "Singapore"],
+    "willing_to_relocate": true,
+    "roles": ["synthetic organic chemistry", "process chemistry", "discovery chemistry", "medicinal chemistry", "reaction development", "catalysis", "photoredox chemistry", "electrochemistry"],
+    "include_postdocs": true,
+    "exclude_contract_positions": true,
+    "us_authorization": {
+      "include_opt_eligible": true,
+      "prioritize_future_sponsorship": true,
+      "exclude_permanent_authorization_required": true,
+      "unknown_policy": "flag_as_unconfirmed_never_infer_opt_or_sponsorship"
+    },
+    "sources": ["employer_career_sites", "permitted_job_feeds", "linkedin_alert_leads"],
+    "company_websites": [],
+    "verify_open_and_posting_date": true,
+    "deduplicate_across_sources_and_daily_reports": true,
+    "report_shortfall_instead_of_filling_with_unverified_jobs": true
+  },
+  "tailoring": {
+    "initial_score_strictly_greater_than": 50,
+    "target_final_score_strictly_greater_than": 90,
+    "score_type": "disclosed_rubric_estimate_not_employer_ats",
+    "allow_fabricated_experience": false,
+    "report_all_shortlisted_jobs": true,
+    "rank_by_final_score_descending": true,
+    "formats": ["docx", "pdf"],
+    "pdf_page_limit": 2,
+    "preserve_resume_preferences_in": "AGENTS.md"
+  },
+  "storage": {
+    "repository": "samya-samanta/ATS_matchmaker",
+    "proposed_output_directory": "resumes/daily/YYYY-MM-DD"
+  },
+  "applications_enabled": false,
+  "recruiter_outreach_enabled": false
+}

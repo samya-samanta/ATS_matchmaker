@@ -19,3 +19,9 @@ For résumé work, preserve wording and factual claims when only formatting is r
 - Keep the JACS, Angewandte, Nature Communications and Organic Syntheses papers in the selected list; the approved AstraZeneca selection uses ACS Catalysis instead of Tetrahedron Letters.
 - Align the header's `resume` label to the text area's right margin with a single right-aligned tab, clearing inherited header tab stops.
 - The refined AstraZeneca template uses Palatino body/name text with Arial section headings; maintain uniform 10-point body size and scientific italics.
+
+## Daily job-search workflow
+
+- Follow `automation/workflow-config.json` and `automation/SETUP.md` for the agreed daily search/tailoring requirements. This configuration is planned, not a running deployment.
+- Use College Station local time (`America/Chicago`), with separate 10 AM and 5 PM email reports. The current scope excludes job applications and recruiter outreach.
+- Employer websites supplied by the user are priority sources. LinkedIn Premium is not proof of API/account access; use permitted sources and verify employer postings.
