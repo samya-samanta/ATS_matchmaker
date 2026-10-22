@@ -15,3 +15,7 @@ For résumé work, preserve wording and factual claims when only formatting is r
 - Include a job-specific estimated match score and its evidence/rubric with each tailored resume. Clearly label it as an estimate, never the employer's actual ATS result. If there is no JD, say the score is not assessable rather than inventing one.
 - Use italic chemical N-locants and journal titles. In selected publication citations, bold the publication year and italicize the volume, preserving text and links.
 - Retain a two-page PDF, justified uniform 10-point body text, Education-first order, restrained emphasis, and the user's corrected wording unless tailoring is requested.
+- Bold year numbers throughout Research Experience and `Samanta, S.` in every selected publication, including middle-author entries.
+- Keep the JACS, Angewandte, Nature Communications and Organic Syntheses papers in the selected list; the approved AstraZeneca selection uses ACS Catalysis instead of Tetrahedron Letters.
+- Align the header's `resume` label to the text area's right margin with a single right-aligned tab, clearing inherited header tab stops.
+- The refined AstraZeneca template uses Palatino body/name text with Arial section headings; maintain uniform 10-point body size and scientific italics.

@@ -39,3 +39,7 @@ No laboratory automation, HTE, hydrogenation expertise, FAIR/AI-ready datasets, 
 The position is on-site in **Gothenburg, Sweden**. Willingness to relocate and Swedish work authorization or sponsorship need confirmation. U.S. OPT does not establish Swedish work authorization. The attached JD does not specify sponsorship terms; this is an open question, not a presumed rejection.
 
 The Pfizer role's separate estimated match remains **35/100**; typography corrections do not change its evidence score. No single job-specific score applies to the general résumé without a target JD.
+
+## Typography refinement
+
+The updated document uses Palatino body/name text and Arial section headings, bold Research Experience years, bold `Samanta, S.` in every selected publication, and a header label aligned to the right text margin. The five selected papers (JACS, Organic Syntheses, ACS Catalysis, Angewandte and Nature Communications) and all wording are unchanged. The PDF remains two pages. These presentation changes do not alter the estimated match score: **75/100**.
