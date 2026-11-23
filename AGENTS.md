@@ -28,3 +28,8 @@ For résumé work, preserve wording and factual claims when only formatting is r
 
 - Latest user-approved formatting source: `resumes/master/Samya_Samanta_Master.docx`, copied unchanged from the latest uploaded `Samya_Samanta_Spacing_105_9.5pt.docx`. This supersedes the earlier formatting master and trials. Preserve this formatting unless the user approves changes or a technical correction is needed. The review suggestions are not approved changes.
 - The user subsequently authorized the review refinements, now in `resumes/master/Samya_Samanta_Master_Refined.docx`. Use this refined version for subsequent work unless a newer upload supersedes it. Technical Skills is justified, as requested in the latest correction. Honors & Awards and Organizational Leadership and Volunteering bullets use the same 30-point text indent and 12-point hanging indent. The uploaded original remains archived unchanged.
+
+## Delivering project files
+
+- Publish finished project files to `samya-samanta/ATS_matchmaker` by default. Verify that each direct GitHub download matches the delivered file, and share the link with the user.
+- Follow any file-specific instructions to keep a deliverable private.
